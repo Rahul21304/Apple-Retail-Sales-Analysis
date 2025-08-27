@@ -38,7 +38,8 @@ The analysis covers:
 
 **ER Diagram**
   
-  <img width="1243" height="817" alt="Screenshot 2025-08-24 120501" src="https://github.com/user-attachments/assets/adeb6281-3582-416c-b601-d13a6c0237dd" />
+<img width="1227" height="823" alt="ER DIAGRAM (3)" src="https://github.com/user-attachments/assets/cfc50a1a-a5cc-4bbb-999d-b403774ad9eb" />
+
 
 ---
 
