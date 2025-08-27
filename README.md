@@ -71,7 +71,7 @@ The analysis covers:
 * 🔽 Least selling product per country
 * ⏳ Warranty claims filed within 180 days
 * 📈 Warranty claims for recently launched products
-* 🇺🇸 US months with >5,000 units sold
+*  months with more than 5,000 units sold in USA
 * 📂 Category with most warranty claims
 
 ### **Complex Analysis**
