@@ -88,10 +88,10 @@ The analysis covers:
 
 ## 📊 Sample Insights
 
-✅ United States stores recorded months exceeding **5,000 units sold**
-✅ Warranty claims have a rejection rate of **X%** (from query output)
-✅ Mid-range products (\$501–\$1000) had the highest correlation with warranty claims
-✅ Some stores showed **double-digit YoY growth**, while others declined
+✅ United States stores recorded months exceeding **5,000 units sold**       
+✅ Warranty claims have a rejection rate of **X%** (from query output)        
+✅ Mid-range products (\$501–\$1000) had the highest correlation with warranty claims       
+✅ Some stores showed **double-digit YoY growth**, while others declined         
 
 ---
 
